@@ -1,0 +1,28 @@
+[
+    {
+        "constituencyId": 3,
+        "constituencyName": "Kukatpally",
+        "stateId": 1,
+        "districtId": null,
+        "constituencyPopulation": 500,
+        "constituencySize": 345.78,
+        "constituencyMaleVotersCount": 40,
+        "constituencyFemaleVotersCount": 80,
+        "constituencyCurrentMpId": 1,
+        "crtuser": "ManualInsert",
+        "lastUpdatedUser": "ManualUpdate"
+    },
+    {
+        "constituencyId": 4,
+        "constituencyName": "Ibrahimpatnam",
+        "stateId": 1,
+        "districtId": null,
+        "constituencyPopulation": 100,
+        "constituencySize": 345.78,
+        "constituencyMaleVotersCount": 40,
+        "constituencyFemaleVotersCount": 80,
+        "constituencyCurrentMpId": null,
+        "crtuser": "ManualInsert",
+        "lastUpdatedUser": "ManualUpdate"
+    }
+]
